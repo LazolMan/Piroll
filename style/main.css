@@ -451,8 +451,8 @@ section.testimonials .reviews ul.slick-dots {
 }
 section.testimonials .reviews ul.slick-dots button {
   background: none;
-  margin: none;
-  padding: none;
+  margin: 0;
+  padding: 0;
   border: none;
   font-size: 0;
   background: rgba(255, 255, 255, 0.5);
@@ -530,7 +530,7 @@ section.contacts .contacts_box .contacts_form .input_email {
   font-family: "Nunito Sans", sans-serif;
   font-weight: 400;
   color: #787878;
-  font-size: 15x;
+  font-size: 15px;
   line-height: 24px;
   letter-spacing: 0.005em;
   margin-bottom: 30px;
@@ -545,7 +545,7 @@ section.contacts .contacts_box .contacts_form .input_title {
   font-family: "Nunito Sans", sans-serif;
   font-weight: 400;
   color: #787878;
-  font-size: 15x;
+  font-size: 15px;
   line-height: 24px;
   letter-spacing: 0.005em;
   margin-bottom: 30px;
