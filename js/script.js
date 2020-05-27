@@ -78,7 +78,7 @@ jQuery(function ($) {
     $(".reviews_slider").slick({
       arrows: false,
       dots: true,
-      autoplay: false,
+      autoplay: true,
       autoplaySpeed: 5000,
       swipeToSlide: true,
     });
